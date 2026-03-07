@@ -32,23 +32,26 @@ int main() {
 <img align='left' height='160' style="margin-left:20px" src='https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif' alt='Skills'>
  <details open="true"> 
   <summary><b>:octocat: &nbsp;Git Statistics</b></summary>
-  <div align="center">
-  <img height="125px" src="https://github-readme-stats.vercel.app/api?username=DevKob&show_icons=true&theme=dracula" />
-  <img height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevKob&hide=html&layout=compact&theme=dracula" />
+  <div align="left">
+ <img height="120px" src="https://github-readme-stats-fast.vercel.app/api?username=DevKob&show_icons=true&theme=dracula" />
+    <img height="120px" src="https://github-readme-stats-fast.vercel.app/api/streak?username=DevKob&theme=dracula" />
+    <img height="120px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevKob&hide=html&layout=compact&theme=dracula" />
+
 <!-- <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=samkoba&hide=html&layout=compact&theme=dracula" />
  <img height="120px" src="https://activity-graph.herokuapp.com/graph?username=samkoba&theme=dracula" /> -->
  </div>
     
 #
+
+![](https://github-trophies.vercel.app/?username=devkob&column=10&row=1&theme=dracula)
   
-   
-  
-  <div align="center">
-<img height="135px" src="https://github-profile-trophy.vercel.app/?username=DevKob&column=11&row=1&theme=dracula" />
- </div>
-  
-[![@samkoba's Holopin board](https://holopin.me/samkoba)](https://holopin.io/@samkoba)
+
 <center>
+
+ 
+
+  
+  
  <!-- <img height="148px" src="https://samkoba.github.io/images/turbidity-monitoring-system1.jpg" />
   <img height="148px" src="https://samkoba.github.io/images/database-alumni-ekasari1.jpg" />
   <img height="148px" src="https://samkoba.github.io/images/the-memories-of-smantig2.jpg" />
@@ -56,6 +59,22 @@ int main() {
 
  </details>
  
+
+
+
+
+<div align="center">
+  <h4>
+
+  | Holopin Badges                          | Credly Badges                                                                 |
+  |-----------------------------------------|-------------------------------------------------------------------------------|
+  | <a href="https://holopin.io/@samkoba"><img height="170px" src="https://holopin.me/samkoba" alt="Holopin Badges" /></a> | <a href="https://www.credly.com/users/tmfikrif/badges"><img height="170px" src="https://credly-readme-stats.onrender.com/api/carousel?username=tmfikrif&theme=dracula&hide_border=true&hide_title=true&custom_title=DevKob+Credly&visible_count=6&show_name=false&max_items=30" alt="DevKob Credly Badges" /></a> |
+</h4>
+</div>
+
+
+
+
 
  
 <!--<a href="https://www.linkedin.com/in/DevKob/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> -->
