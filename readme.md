@@ -29,13 +29,13 @@ int main() {
 
 #
 
-<img align='left' height='160' style="margin-left:20px" src='https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif' alt='Skills'>
+<!-- <img align='left' height='160' style="margin-left:20px" src='https://www.puttiapps.com/wp-content/uploads/2021/05/stats.gif' alt='Skills'> -->
  <details open="true"> 
   <summary><b>:octocat: &nbsp;Git Statistics</b></summary>
   <div align="left">
- <img height="110px" src="https://github-readme-stats-fast.vercel.app/api?username=DevKob&show_icons=true&theme=dracula" />
-    <img height="110px" src="https://github-readme-stats-fast.vercel.app/api/streak?username=DevKob&theme=dracula" />
-    <img height="110px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevKob&hide=html&layout=compact&theme=dracula" />
+ <img height="120px" src="https://github-readme-stats-fast.vercel.app/api?username=DevKob&show_icons=true&theme=dracula" />
+    <img height="120px" src="https://github-readme-stats-fast.vercel.app/api/streak?username=DevKob&theme=dracula" />
+    <img height="120px" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DevKob&hide=html&layout=compact&theme=dracula" />
 
 <!-- <img height="120px" src="https://github-readme-streak-stats.herokuapp.com/?user=samkoba&hide=html&layout=compact&theme=dracula" />
  <img height="120px" src="https://activity-graph.herokuapp.com/graph?username=samkoba&theme=dracula" /> -->
